@@ -1,7 +1,7 @@
 baseURL: "https://laumm-pcs.github.io/test-hugo/"
 title: My first hugo
 paginate: 5
-theme: PaperMod
+theme: Techdoc
 publishDir: "docs"
 
 enableRobotsTXT: true

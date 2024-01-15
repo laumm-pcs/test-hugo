@@ -17,8 +17,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: O11y Cloud.com
-  description: "Welcome to O11yCloud.com"
+  title: My first hugo
+  description: "Welcome to My first hugo"
   keywords: [Blog, Portfolio, Observability]
   author: Me
   # author: ["Me", "You"] # multiple authors

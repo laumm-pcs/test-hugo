@@ -1,5 +1,5 @@
 baseURL: "https://laumm-pcs.github.io/test-hugo/"
-title: O11y Cloud.com
+title: My first hugo
 paginate: 5
 theme: PaperMod
 publishDir: "docs"
